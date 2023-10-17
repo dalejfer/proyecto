@@ -1,1 +1,3 @@
-print("Hola mundo")
+import lib
+
+lib.saluda()
