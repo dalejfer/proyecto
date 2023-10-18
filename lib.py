@@ -1,2 +1,2 @@
 def saluda():
-    print("Hola", end="asd")
+    print("Hola", end="")
